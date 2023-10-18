@@ -26,21 +26,26 @@ List of Final Year Artificial Intelligence & Machine Learning Lab Practicals
 
 2. Implementing Feed-forward neural networks with Keras and TensorFlow
   a. Import the necessary packages
+
   b. Load the training and testing data (MNIST/CIFAR10)
+
   c. Define the network architecture using Keras
+  
   d. Train the model using SGD
+  
   e. Evaluate the network
+  
   f. Plot the training loss and accuracy
 
 
-3. Build the Image classification model by dividing the model into the following fourstages:
+4. Build the Image classification model by dividing the model into the following fourstages:
   a. Loading and preprocessing the image data
   b. Defining the model’s architecture
   c. Training the model
   d. Estimating the model’s performance
 
 
-4. Use Autoencoder to implement anomaly detection. Build the model by using the following:
+5. Use Autoencoder to implement anomaly detection. Build the model by using the following:
   a. Import required libraries
   b. Upload/access the dataset
   c. The encoder converts it into a latent representation
@@ -48,14 +53,14 @@ List of Final Year Artificial Intelligence & Machine Learning Lab Practicals
   e. Compile the models with Optimizer, Loss, and Evaluation Metrics
 
 
-5. Implement the Continuous Bag of Words (CBOW) Model. Stages can be:
+6. Implement the Continuous Bag of Words (CBOW) Model. Stages can be:
   a. Data preparation
   b. Generate training data
   c. Train model
   d. Output
 
 
-6. Object detection using Transfer Learning of CNN architectures
+7. Object detection using Transfer Learning of CNN architectures
   a. Load in a pre-trained CNN model trained on a large dataset
   b. Freeze parameters(weights) in the model’s lower convolutional layers
   c. Add a custom classifier with several layers of trainable parameters to model
