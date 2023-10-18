@@ -25,17 +25,17 @@ List of Final Year Artificial Intelligence & Machine Learning Lab Practicals
 
 
 2. Implementing Feed-forward neural networks with Keras and TensorFlow
-  a. Import the necessary packages
+    a. Import the necessary packages
 
-  b. Load the training and testing data (MNIST/CIFAR10)
+    b. Load the training and testing data (MNIST/CIFAR10)
 
-  c. Define the network architecture using Keras
+    c. Define the network architecture using Keras
   
-  d. Train the model using SGD
+    d. Train the model using SGD
   
-  e. Evaluate the network
+    e. Evaluate the network
   
-  f. Plot the training loss and accuracy
+    f. Plot the training loss and accuracy
 
 
 4. Build the Image classification model by dividing the model into the following fourstages:
