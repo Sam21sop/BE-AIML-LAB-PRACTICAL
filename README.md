@@ -41,49 +41,49 @@ List of Final Year Artificial Intelligence & Machine Learning Lab Practicals
 
 4. Build the Image classification model by dividing the model into the following fourstages:
 
-      a. Loading and preprocessing the image data
-
-      b. Defining the model’s architecture
-
-      c. Training the model
-
-      d. Estimating the model’s performance
+        a. Loading and preprocessing the image data
+        
+        b. Defining the model’s architecture
+        
+        c. Training the model
+        
+        d. Estimating the model’s performance
 
 
 6. Use Autoencoder to implement anomaly detection. Build the model by using the following:
 
-      a. Import required libraries
-
-      b. Upload/access the dataset
-
-      c. The encoder converts it into a latent representation
-
-      d. Decoder networks convert it back to the original input
-
-      e. Compile the models with Optimizer, Loss, and Evaluation Metrics
+        a. Import required libraries
+        
+        b. Upload/access the dataset
+        
+        c. The encoder converts it into a latent representation
+        
+        d. Decoder networks convert it back to the original input
+        
+        e. Compile the models with Optimizer, Loss, and Evaluation Metrics
 
 
 8. Implement the Continuous Bag of Words (CBOW) Model. Stages can be:
 
-      a. Data preparation
-
-      b. Generate training data
-
-      c. Train model
-
-      d. Output
+        a. Data preparation
+        
+        b. Generate training data
+        
+        c. Train model
+        
+        d. Output
 
 
 10. Object detection using Transfer Learning of CNN architectures
 
-      a. Load in a pre-trained CNN model trained on a large dataset
-
-      b. Freeze parameters(weights) in the model’s lower convolutional layers
-
-      c. Add a custom classifier with several layers of trainable parameters to model
-
-      d. Train classifier layers on training data available for the task
-
-      e. Fine-tune hyperparameters and unfreeze more layers as needed
+        a. Load in a pre-trained CNN model trained on a large dataset
+        
+        b. Freeze parameters(weights) in the model’s lower convolutional layers
+        
+        c. Add a custom classifier with several layers of trainable parameters to model
+        
+        d. Train classifier layers on training data available for the task
+        
+        e. Fine-tune hyperparameters and unfreeze more layers as needed
 
 
